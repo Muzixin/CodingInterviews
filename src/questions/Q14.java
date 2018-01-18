@@ -1,5 +1,9 @@
 package questions;
 
+/**
+ * @author Azreal
+ *	剪绳子问题
+ */
 public class Q14 {
 
 	private int maxProductAfterCutting_solution(int length){
