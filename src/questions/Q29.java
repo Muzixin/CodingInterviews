@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * @author Azreal
- *  顺时针答应矩阵
+ *  顺时针打印矩阵
  */
 public class Q29 {
 	public ArrayList<Integer> printMatrix(int[][] matrix) {
