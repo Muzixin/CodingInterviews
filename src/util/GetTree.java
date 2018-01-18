@@ -10,6 +10,7 @@ public class GetTree {
 		TreeNode node6 = new TreeNode(9);
 		TreeNode node7 = new TreeNode(11);
 		
+		
 		node2.left = node4;
 		node2.right = node5;
 		node3.left = node6;
