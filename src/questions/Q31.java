@@ -1,5 +1,9 @@
 package questions;
 
+/**
+ * @author Azreal
+ *	栈的压入、弹出序列
+ */
 public class Q31 {
 	
 	public boolean IsPopOrder(int [] pushA,int [] popA) {
