@@ -1,5 +1,9 @@
 package questions;
 
+/**
+ * @author Azreal
+ *	整数的N次方
+ */
 public class Q16 {
 	public double Power(double base, int exponent) {
         Double a = new Double(base);
