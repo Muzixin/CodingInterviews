@@ -1,5 +1,9 @@
 package questions;
 
+/**
+ * @author Azreal
+ *	判断链表是否存在环，如果有的话，找到环的入口节点
+ */
 class ListNode {
 	int val;
 	ListNode next = null;
