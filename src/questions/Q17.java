@@ -1,5 +1,9 @@
 package questions;
 
+/**
+ * @author Azreal
+ *	打印从1到最大的N位数
+ */
 public class Q17 {
 	private void print1ToMaxofNDigits(int n){
 		if(n <= 0)
