@@ -1,5 +1,9 @@
 package questions;
 
+/**
+ * @author Azreal
+ *	矩阵中的路径问题
+ */
 public class Q12 {
 	public boolean hasPath(char[] matrix, int rows, int cols, char[] str)
     {
